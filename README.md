@@ -23,5 +23,5 @@ It is important to note that potential inaccuracies or erroneous solutions may e
 * **Ch 11**. [Product measures]()
 * **Ch 12**. [Signed measures]()
 * **Ch 13**. [The Radon-Nikodym theorem]()
-* **Ch 14** [Differentiation]()
-* **Ch 15** [Lp spaces]()
+* **Ch 14**. [Differentiation]()
+* **Ch 15**. [Lp spaces]()
