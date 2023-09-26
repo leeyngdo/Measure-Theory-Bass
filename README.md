@@ -6,7 +6,7 @@ It is important to note that potential inaccuracies or erroneous solutions may e
 Also, the author provided brief idea of solutions to most of exercises in the end of the book. You might want to refer to them first prior to my solutions. 
 
 <p align = "center">
-<img width="144" alt="image" src="https://github.com/leeyngdo/Measure-Theory-Bass/assets/88715406/6c351a48-5cad-4f31-bc77-b62e04a25140">
+<img width="200" alt="image" src="https://github.com/leeyngdo/Measure-Theory-Bass/assets/88715406/6c351a48-5cad-4f31-bc77-b62e04a25140">
 </p>
 
 ## Contents 
